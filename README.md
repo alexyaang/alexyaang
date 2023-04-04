@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 
-- 🔭 I’m currently working on [VSCode Docker](https://github.com/microsoft/vscode-docker)
+🔭 I’m currently working on [VSCode Docker](https://github.com/microsoft/vscode-docker)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
